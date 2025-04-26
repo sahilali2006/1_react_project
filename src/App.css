@@ -1,0 +1,135 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+
+.nav{
+  
+  height: 50px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+
+.nav img{
+  margin-left: 50px;
+  
+}
+
+ul{
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  gap: 35px;
+  font-family: sans-serif;
+}
+
+.navbtn{
+  height: 26px;
+padding: 15px;
+display: flex;
+align-items: center;
+  margin-right: 50px;
+  background-color: #e43434;
+  color: white;
+  border-style: none;
+  cursor: pointer;
+
+}
+
+mid{
+  margin-top: 88px;
+  height: 600px;
+  width: 100%;
+  display:flex ;
+  align-items: center;
+  justify-content: center;
+}
+
+.left{
+  height: 100%;
+  width: 50%;
+
+
+  h1{
+    margin-left: 280px;
+    font-size: 76px ;
+    font-weight: 900;
+    font-family: sans-serif; 
+    line-height: 80px;
+
+  }
+
+  h4{
+    margin-top: 20px;
+    margin-left: 290px;
+    font-weight: 700;
+    font-family: sans-serif; 
+
+  }
+
+.but{
+  margin-top: 30px;
+  margin-left: 290px;
+  display: flex;
+  gap: 20px;
+  }
+
+.shope{
+    padding: 20px;
+    height: 32px;
+    padding: 15px;
+    display: flex;
+    background-color: #e43434;
+    color: white;
+    font-weight: 700;
+    align-items: center;
+    border-style: none;
+  cursor: pointer;
+    
+}
+
+.category{
+  padding: 20px;
+  height: 20px;
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  
+}
+
+.avl{
+  margin-left: 290px;
+  margin-top: 35px;
+}
+
+
+.iii{
+  margin-top: 20px;
+  margin-left: 270px;
+  gap: 200px;
+}
+
+.iii img{
+  cursor: pointer;
+  margin-left: 20px;
+}
+
+}
+
+
+.right{
+  height: 100%;
+  width: 50%;
+
+
+  img{
+  margin-left: 50px;  
+  }
+}
+
+
+
